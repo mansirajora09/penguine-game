@@ -1,0 +1,6 @@
+{"msg":"init","dagFile":"artifacts/tundra.dag","targets":[]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h","enqueuedNodeIndex":3,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h","enqueuedNodeIndex":4,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}

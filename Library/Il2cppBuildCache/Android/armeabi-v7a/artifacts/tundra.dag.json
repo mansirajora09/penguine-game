@@ -1,0 +1,191 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Users/mansi/Downloads/applications/tools/2021.1.11f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=\"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h\" --additional-cpp=\"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h\" --additional-cpp=\"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h\" --incremental-g-c-time-slice=3 --baselib-directory=\"/Users/mansi/Downloads/applications/tools/2021.1.11f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Users/mansi/Downloads/applications/tools/2021.1.11f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h",
+      "Action": "TMPFILE=$(mktemp \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h.tmpXXXXX\") && cp -af \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h\" \"${TMPFILE}\" && touch -h -c \"${TMPFILE}\" && mv -f \"${TMPFILE}\" \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h\" ",
+      "Inputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h"
+      ],
+      "Outputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsInitializationListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h",
+      "Action": "TMPFILE=$(mktemp \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h.tmpXXXXX\") && cp -af \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h\" \"${TMPFILE}\" && touch -h -c \"${TMPFILE}\" && mv -f \"${TMPFILE}\" \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h\" ",
+      "Inputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h"
+      ],
+      "Outputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsLoadListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h",
+      "Action": "TMPFILE=$(mktemp \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h.tmpXXXXX\") && cp -af \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h\" \"${TMPFILE}\" && touch -h -c \"${TMPFILE}\" && mv -f \"${TMPFILE}\" \"/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h\" ",
+      "Inputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h"
+      ],
+      "Outputs": [
+        "/Users/mansi/Documents/unityProject/Penguin 2D Platformer/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/UnityAdsShowListener.h"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 4
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../Library"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
